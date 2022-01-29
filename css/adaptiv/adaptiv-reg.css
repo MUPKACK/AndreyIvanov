@@ -26,3 +26,9 @@
         margin-top: 200px;
     }
 }
+@media (max-width: 576px){
+    .box{
+        margin-top: 250px;
+    }
+    
+}
